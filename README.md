@@ -1,1 +1,1 @@
-# This is baciaaly created by local repo and uploaded into the Git hub
+# This is basically created by local repo and uploaded into the Git hub
